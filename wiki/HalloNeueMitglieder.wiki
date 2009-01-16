@@ -1,0 +1,9 @@
+#summary Begrüßung durch den Vorstand
+
+= Großes Hallo !!! =
+
+Hallo alte und neue Mitglieder!
+
+Bitte meldet euch alle hier um zu sehen das es klappt!
+
+Und dann versucht doch mal euer Eclipse mit svn einzurichten!
