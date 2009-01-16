@@ -1,0 +1,8 @@
+#summary Infos über JME
+#labels Phase-Requirements
+
+= JMonkeyEngine =
+
+Download:
+http://code.google.com/p/jmonkeyengine/source/checkout
+Zum Einbinden in Eclipse: siehe [SvnInstalation]
