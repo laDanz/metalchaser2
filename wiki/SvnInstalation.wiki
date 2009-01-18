@@ -7,8 +7,9 @@ Es gibt 2 Möglichkeiten: In Eclipse und ohne Eclipse.
 Alle die Programmieren, interessiert bestimmt die Installation in Eclipse:
  == Installation in Eclipse ==
  Help->SoftwareUpdates->Find & Install->Search for new Features-> Add Website und dann das http://subclipse.tigris.org/update_1.4.x eingeben und installieren.
+ (In neueren Eclipse-Versionen ist ist "Find&Install" nicht so einfach zu erreichen. Die Option wird erst angezeigt wenn man unter Window->Preferences unter General->Capabilities "Classic Update" aktiviert.)
 
-Dann Windows->Show View-> Other-> SVN->SVN Repositories und da dann new Location und da dann die Anmeldedaten eigeben. Dann das Projekt auschecken.
+ Dann Windows->Show View-> Other-> SVN->SVN Repositories und da dann new Location und da dann die Anmeldedaten eigeben. Dann das Projekt auschecken.
 
  == Installation ohne Eclipse ==
 Wenn man nichts Programmieren will, z.B.: Für Winkie, vllt Pogge
