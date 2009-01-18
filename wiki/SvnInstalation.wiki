@@ -12,5 +12,5 @@ Alle die Programmieren, interessiert bestimmt die Installation in Eclipse:
  Dann Windows->Show View-> Other-> SVN->SVN Repositories und da dann new Location und da dann die Anmeldedaten eigeben. Dann das Projekt auschecken.
 
  == Installation ohne Eclipse ==
-Wenn man nichts Programmieren will, z.B.: Für Winkie, vllt Pogge
-Einen Client, zum Beispiel TortoiseSvn runter laden, und dort einen neuen RemoteFolder anlegen und eure Anmeldedaten eingeben.
+ Wenn man nichts Programmieren will, z.B.: Winkie, vllt Pogge
+ Einen Client, zum Beispiel TortoiseSvn runter laden, und dort einen neuen RemoteFolder anlegen und eure Anmeldedaten eingeben.
