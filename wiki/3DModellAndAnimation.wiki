@@ -1,0 +1,14 @@
+#summary Alles was Winkies bereich betrifft
+
+ == Formate ==
+JME kann [http://www.jmonkeyengine.com/wiki/doku.php?id=model_loading von Hause] aus    
+ * 3ds Autodesk 3d studio max.
+ * md2 Quake 2.
+ * md3 Quake 3. ms3d !MilkShape.
+ *   obj Wavefront 3D Object.
+Mann kann aber auch (durch Importer) 
+ * [http://www.jmonkeyengine.com/wiki/doku.php?id=collada Collada] und 
+ * [http://code.google.com/p/md5importer/ MD5] importieren
+
+
+Wobei MD5 das potenteste zu sein scheint:[http://www.jmonkeyengine.com/wiki/doku.php?id=md5 quelle]. Es gibt auch Maya Exporter:[http://www.modwiki.net/wiki/MD5_(file_format)#Maya hier].
