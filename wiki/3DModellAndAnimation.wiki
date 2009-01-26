@@ -12,3 +12,15 @@ Mann kann aber auch (durch Importer)
 
 
 Wobei MD5 das potenteste zu sein scheint:[http://www.jmonkeyengine.com/wiki/doku.php?id=md5 quelle]. Es gibt auch Maya Exporter:[http://www.modwiki.net/wiki/MD5_(file_format)#Maya hier].
+
+*Winkie meinte der MD5 Exporter funktioniert nicht richtig:*
+ {{{
+4.2 This script works only on models that are a SINGLE mesh. Accessories such as swords, guns, etc. should either be part of that mesh 
+and bound into the skeleton as well, OR exported as another file with its own joints. 
+ }}}
+um in Maya Scripte zu nutzen sollte sie .mel  (Maya Embeted Language) sein, Python wird noch unterstützt, plus ich habe noch eine .dll gefunden ....
+
+Alternativen:  
+ * *.fbx* (da ging eine reine Model Animation ohne Skelett gerade gut über die Bühne)
+ * hätte noch .dxf zur Verfühgung 
+.fbx sticht ins Auge da dieses Format auch bei der C# , XNA Version benutzt wird.
