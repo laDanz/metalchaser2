@@ -7,7 +7,7 @@ JME kann [http://www.jmonkeyengine.com/wiki/doku.php?id=model_loading von Hause]
  * md3 Quake 3. ms3d !MilkShape.
  *   obj Wavefront 3D Object.
 Mann kann aber auch (durch Importer) 
- * [http://www.jmonkeyengine.com/wiki/doku.php?id=collada Collada] und 
+ * [http://www.jmonkeyengine.com/wiki/doku.php?id=collada Collada] [http://en.wikipedia.org/wiki/COLLADA (wikipedia)] und 
  * [http://code.google.com/p/md5importer/ MD5] importieren
 
 
@@ -21,6 +21,6 @@ and bound into the skeleton as well, OR exported as another file with its own jo
 um in Maya Scripte zu nutzen sollte sie .mel  (Maya Embeted Language) sein, Python wird noch unterstützt, plus ich habe noch eine .dll gefunden ....
 
 Alternativen:  
- * *.fbx* (da ging eine reine Model Animation ohne Skelett gerade gut über die Bühne)
+ * *[http://en.wikipedia.org/wiki/FBX .fbx]* (da ging eine reine Model Animation ohne Skelett gerade gut über die Bühne)
  * hätte noch .dxf zur Verfühgung 
 .fbx sticht ins Auge da dieses Format auch bei der C# , XNA Version benutzt wird.
