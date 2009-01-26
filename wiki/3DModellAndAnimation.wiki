@@ -24,3 +24,5 @@ Alternativen: 
  * *[http://en.wikipedia.org/wiki/FBX .fbx]* (da ging eine reine Model Animation ohne Skelett gerade gut über die Bühne)
  * hätte noch .dxf zur Verfühgung 
 .fbx sticht ins Auge da dieses Format auch bei der C# , XNA Version benutzt wird.
+
+Update: ich habe mich mal bemüht und mit einem Typen im #jme irc Channel darüber gequatscht: [midget]
